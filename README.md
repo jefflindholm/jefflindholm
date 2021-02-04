@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I am currently a Sr. Manager/Architect with Cox Automotive. 
+[linkedin](https://www.linkedin.com/in/jefflindholm)
+
 <!--
 **jefflindholm/jefflindholm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
