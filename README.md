@@ -21,8 +21,6 @@ Here are some ideas to get you started:
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jefflindholm&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 <!--START_SECTION:waka-->
 ```text
-Vue.js       20 mins         ████████████████▒░░░░░░░░   65.84 % 
-JavaScript   9 mins          ███████▒░░░░░░░░░░░░░░░░░   28.93 % 
-JSON         1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
