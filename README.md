@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jefflindholm&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 <!--START_SECTION:waka-->
 ```text
-C#           7 mins          ███████████░░░░░░░░░░░░░░   43.97 % 
-CSHTML       2 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.03 % 
-Vue.js       2 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.29 % 
-JSON         1 min           ██▓░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
-TypeScript   1 min           ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 % 
+C#           7 mins          ███████████░░░░░░░░░░░░░░   43.52 % 
+CSHTML       2 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.85 % 
+Vue.js       2 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.24 % 
+JSON         1 min           ██▓░░░░░░░░░░░░░░░░░░░░░░   11.14 % 
+TypeScript   1 min           ██▒░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
 ```
 <!--END_SECTION:waka-->
