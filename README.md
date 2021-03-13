@@ -25,10 +25,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-VimL       28 mins         ████████▓░░░░░░░░░░░░░░░░   35.09 % 
-Docker     21 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.54 % 
-Other      14 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.98 % 
-Makefile   13 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.75 % 
-Python     2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
+VimL       29 mins         ███████▓░░░░░░░░░░░░░░░░░   30.09 % 
+Other      23 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.80 % 
+Docker     21 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.81 % 
+Makefile   18 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.66 % 
+Python     2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
 ```
 <!--END_SECTION:waka-->
