@@ -25,10 +25,8 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-VimL       29 mins         █████████▓░░░░░░░░░░░░░░░   38.77 % 
-Other      24 mins         ████████░░░░░░░░░░░░░░░░░   32.14 % 
-Makefile   12 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.47 % 
-JSON       7 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
-Text       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
+Other      9 mins          ██████████▓░░░░░░░░░░░░░░   42.06 % 
+JSON       7 mins          ████████▓░░░░░░░░░░░░░░░░   35.05 % 
+Makefile   5 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.39 % 
 ```
 <!--END_SECTION:waka-->
