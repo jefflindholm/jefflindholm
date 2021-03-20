@@ -25,9 +25,8 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Text       1 hr 18 mins    ███████████████████░░░░░░   75.59 % 
-Other      12 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
-JSON       7 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
-Makefile   5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
+Text     1 hr 18 mins    █████████████████████▒░░░   84.90 % 
+JSON     7 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
+Other    6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
 ```
 <!--END_SECTION:waka-->
