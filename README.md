@@ -25,8 +25,9 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-C#           37 mins         █████████████▒░░░░░░░░░░░   53.89 % 
-JavaScript   22 mins         ████████░░░░░░░░░░░░░░░░░   32.64 % 
-Text         9 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.33 % 
+C#           37 mins         ██████████▓░░░░░░░░░░░░░░   42.09 % 
+JavaScript   22 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.50 % 
+C++          19 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.89 % 
+Text         9 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.41 % 
 ```
 <!--END_SECTION:waka-->
