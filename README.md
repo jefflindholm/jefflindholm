@@ -25,10 +25,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   2 hrs 23 mins   ██████████████████████▒░░   88.71 % 
-Markdown     6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
-JSON         6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
-Text         3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
-Git Config   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
+JavaScript   1 hr 25 mins    █████████████████░░░░░░░░   68.35 % 
+YAML         13 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.98 % 
+JSON         11 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.04 % 
+Git Config   7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
+Docker       6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
 ```
 <!--END_SECTION:waka-->
