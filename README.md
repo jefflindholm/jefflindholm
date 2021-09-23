@@ -25,10 +25,6 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-YAML         13 mins         ████████░░░░░░░░░░░░░░░░░   32.60 % 
-JavaScript   7 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.35 % 
-Git Config   7 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.32 % 
-JSON         6 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.18 % 
-Docker       6 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.99 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
