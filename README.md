@@ -25,10 +25,6 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-C#      58 mins         █████████████████▒░░░░░░░   69.53 % 
-SQL     11 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.19 % 
-JSON    10 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.64 % 
-Other   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
-YAML    1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+SQL   11 mins         ███████████████████████▒░   93.28 % 
 ```
 <!--END_SECTION:waka-->
