@@ -25,6 +25,6 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-JSON   3 mins          ██████████████████████░░░   88.25 % 
+JSON         3 mins          ██████████████████████░░░   88.25 % 
 ```
 <!--END_SECTION:waka-->
