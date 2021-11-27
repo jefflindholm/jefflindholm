@@ -25,7 +25,6 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-JSON         3 mins          █████████████▒░░░░░░░░░░░   52.92 % 
-YAML         2 mins          ██████████░░░░░░░░░░░░░░░   40.04 % 
+YAML         2 mins          █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
