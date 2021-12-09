@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Astro        29 mins         ██████████▓░░░░░░░░░░░░░░   42.78 % 
-JavaScript   29 mins         ██████████▓░░░░░░░░░░░░░░   42.46 % 
-JSX          8 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.65 % 
-JSON         1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
+Astro        29 mins         █████████████████▒░░░░░░░   69.59 % 
+JSX          8 mins          █████░░░░░░░░░░░░░░░░░░░░   20.57 % 
+JavaScript   3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
+JSON         1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
 ```
 <!--END_SECTION:waka-->
