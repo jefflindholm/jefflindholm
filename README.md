@@ -25,9 +25,6 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Astro    15 mins         ███████████████▒░░░░░░░░░   61.74 % 
-JSON     5 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.23 % 
-Vue.js   2 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
-HTML     1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
+
 ```
 <!--END_SECTION:waka-->
