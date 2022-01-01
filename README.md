@@ -25,7 +25,6 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Git Config   15 mins         █████████████████▓░░░░░░░   71.21 % 
-C#           6 mins          ███████▒░░░░░░░░░░░░░░░░░   28.79 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
