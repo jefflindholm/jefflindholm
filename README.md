@@ -25,6 +25,8 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+PowerShell   21 mins         ████████████▓░░░░░░░░░░░░   50.14 % 
+YAML         11 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.45 % 
+Lua          10 mins         ██████░░░░░░░░░░░░░░░░░░░   23.40 % 
 ```
 <!--END_SECTION:waka-->
