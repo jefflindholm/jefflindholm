@@ -26,7 +26,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Vue.js       31 mins         ██████████████████████▓░░   90.42 %
+Markdown     2 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 %
+JSON         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
+TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
 ```
 
 <!--END_SECTION:waka-->
