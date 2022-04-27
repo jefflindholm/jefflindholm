@@ -26,8 +26,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-PowerShell   7 mins          ████████████████████████▒   97.33 %
-JavaScript   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.67 %
+PowerShell   7 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
