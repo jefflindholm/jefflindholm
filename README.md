@@ -26,7 +26,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-C#   5 mins          █████████████████████████   100.00 %
+JavaScript   7 mins          ███████████████░░░░░░░░░░   59.42 %
+C#           5 mins          ██████████░░░░░░░░░░░░░░░   40.58 %
 ```
 
 <!--END_SECTION:waka-->
