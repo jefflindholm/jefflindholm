@@ -26,7 +26,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+C#     50 mins         ███████████████████████░░   92.03 %
+JSON   4 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 %
+XML    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
 ```
 
 <!--END_SECTION:waka-->
